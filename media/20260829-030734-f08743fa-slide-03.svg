@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#F7F5F1"/>
+<rect y="0" width="1080" height="22" fill="#138064" opacity=".08"/>
+<text x="86" y="73" class="handle">●  TIKTOK: FlystayID</text>
+<rect x="854" y="42" width="140" height="48" rx="24" fill="none" stroke="#138064" stroke-width="3"/>
+<text x="924" y="73" text-anchor="middle" class="swipe">03 / 05</text>
+<text x="86" y="205" class="title">Hanya di Golden Rama Living</text><text x="86" y="263" class="title">World Denpasar</text><text x="86" y="343" class="intro">Promo ini bukan untuk seluruh cabang.</text><rect x="86" y="398" width="900" height="84" fill="#138064"/><text x="311.0" y="452" text-anchor="middle" class="th">Merchant</text><text x="761.0" y="452" text-anchor="middle" class="th">Lokasi</text><rect x="86" y="482" width="900" height="84" fill="#F7F5F1" stroke="#138064" stroke-width="2"/><text x="311.0" y="536" text-anchor="middle" class="td strong">Golden Rama Experience Travel</text><text x="761.0" y="536" text-anchor="middle" class="td strong">Living World Denpasar, Bali</text><text x="86" y="621" class="body">Tanyakan paket perjalanan yang tersedia kepada</text><text x="86" y="663" class="body">outlet sebelum transaksi.</text>
+<rect x="86" y="660" width="908" height="280" rx="22" fill="#E3F0EB"/><path d="M250 895V760l180-105 180 105v135z" fill="#138064"/><path d="M430 655v240" stroke="#F7F5F1" stroke-width="10"/><path d="M335 782h45m100 0h45m-190 70h45m100 0h45" stroke="#F7F5F1" stroke-width="18"/><path d="M670 790h160m-45-45 45 45-45 45" stroke="#167D65" stroke-width="13" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="750" y="870" text-anchor="middle" style="font-family:DejaVu Sans,Arial,sans-serif;font-size:22px;font-weight:800;fill:#167D65">DENPASAR, BALI</text><text x="108" y="923" style="font-family:DejaVu Sans,Arial,sans-serif;font-size:17px;font-weight:700;fill:#167D65">Ilustrasi lokasi outlet — dibuat untuk penjelasan</text>
+<text x="32" y="1034" class="more">lebih banyak</text>
+<text x="540" y="1034" text-anchor="middle" class="dots">● ● ● ○ ○ </text>
+<text x="1000" y="1034" text-anchor="end" class="more">INSTAGRAM: FlystayID</text>
+<style>
+.handle,.swipe,.title,.intro,.th,.td,.body,.more,.dots{font-family:'DejaVu Sans', Arial, sans-serif;fill:#167D65}
+.handle{font-size:22px;font-weight:700} .swipe{font-size:16px;font-weight:800}
+.title{font-size:45px;font-weight:800} .intro{font-size:29px;font-weight:400}
+.th{font-size:25px;font-weight:800;fill:#F7F5F1} .td{font-size:24px;font-weight:400} .strong{font-weight:800}
+.body{font-size:29px;font-weight:400} .more{font-size:14px;fill:#5A776E;opacity:.7} .dots{font-size:16px;opacity:.35}
+</style></svg>
