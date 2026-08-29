@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#F7F5F1"/>
+<rect y="0" width="1080" height="22" fill="#138064" opacity=".08"/>
+<text x="86" y="73" class="handle">●  TIKTOK: FlystayID</text>
+<rect x="854" y="42" width="140" height="48" rx="24" fill="none" stroke="#138064" stroke-width="3"/>
+<text x="924" y="73" text-anchor="middle" class="swipe">04 / 05</text>
+<text x="86" y="205" class="title">Syarat pembayaran yang wajib</text><text x="86" y="263" class="title">dicek</text><text x="86" y="343" class="intro">Gunakan Kartu Kredit BCA dan pilih cicilan 0%.</text><rect x="86" y="398" width="900" height="84" fill="#138064"/><text x="311.0" y="452" text-anchor="middle" class="th">Cicilan 0%</text><text x="761.0" y="452" text-anchor="middle" class="th">Pengecualian</text><rect x="86" y="482" width="900" height="84" fill="#F7F5F1" stroke="#138064" stroke-width="2"/><text x="311.0" y="536" text-anchor="middle" class="td strong">3, 6, atau 12 bulan</text><text x="761.0" y="536" text-anchor="middle" class="td strong">Smartcash &amp; Visa Corporate</text>
+<rect x="86" y="660" width="908" height="280" rx="22" fill="#E3F0EB"/><rect x="255" y="704" width="300" height="192" rx="16" fill="#F7F5F1" stroke="#138064" stroke-width="7"/><path d="M300 760h190m-190 45h190m-190 45h130" stroke="#138064" stroke-width="12" stroke-linecap="round"/><circle cx="700" cy="800" r="78" fill="#138064"/><path d="M660 800l26 27 55-63" stroke="#F7F5F1" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="108" y="923" style="font-family:DejaVu Sans,Arial,sans-serif;font-size:17px;font-weight:700;fill:#167D65">Ilustrasi checklist syarat — dibuat untuk penjelasan</text>
+<text x="32" y="1034" class="more">lebih banyak</text>
+<text x="540" y="1034" text-anchor="middle" class="dots">● ● ● ● ○ </text>
+<text x="1000" y="1034" text-anchor="end" class="more">INSTAGRAM: FlystayID</text>
+<style>
+.handle,.swipe,.title,.intro,.th,.td,.body,.more,.dots{font-family:'DejaVu Sans', Arial, sans-serif;fill:#167D65}
+.handle{font-size:22px;font-weight:700} .swipe{font-size:16px;font-weight:800}
+.title{font-size:45px;font-weight:800} .intro{font-size:29px;font-weight:400}
+.th{font-size:25px;font-weight:800;fill:#F7F5F1} .td{font-size:24px;font-weight:400} .strong{font-weight:800}
+.body{font-size:29px;font-weight:400} .more{font-size:14px;fill:#5A776E;opacity:.7} .dots{font-size:16px;opacity:.35}
+</style></svg>
